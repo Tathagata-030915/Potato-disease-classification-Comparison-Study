@@ -1,4 +1,4 @@
-# Potato Leaf Disease Classification
+# Potato Leaf Disease Classification (A comparison study)
 
 This repository contains the project documentation for the classification of potato leaf diseases. The project employs a hybrid approach that combines deep learning for feature extraction with traditional machine learning classifiers for robust disease detection.
 
