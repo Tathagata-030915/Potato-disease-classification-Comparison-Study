@@ -1,6 +1,6 @@
 # Potato Leaf Disease Classification (A comparison study)
 
-This repository contains the project documentation for the classification of potato leaf diseases. The project employs a hybrid approach that combines deep learning for feature extraction with traditional machine learning classifiers for robust disease detection.
+This repository contains the project documentation for the classification of potato leaf diseases. The project displays a comparison study that compares the performance deep learning (CNN) and traditional machine learning classifiers (SVM & RFC) for the task of classification of leaf diseases in potato plants. The feature extraction is done from the sequential CNN model layers only and then fed into SVM and RFC fot their training. A flowchart is provided in this readme for better understanding.
 
 ---
 
